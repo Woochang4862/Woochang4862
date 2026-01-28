@@ -1,9 +1,18 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## WHY? : MY DRIVING FORCE! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-저는 **우창**입니다. 새로운 기술을 탐구하고 임팩트 있는 제품을 만드는 것을 좋아하는 소프트웨어 엔지니어입니다. **모바일(Flutter/Android)**과 **웹 개발**을 전문으로 하며, **AI 보안**과 **데이터 분석** 분야에도 깊은 관심을 가지고 있습니다. 언제든지 연락 주세요!
+저는 **우창**입니다. 새로운 기술을 탐구하고 임팩트 있는 제품을 만드는 것을 좋아하는 소프트웨어 엔지니어입니다. **모바일(Flutter/Android)** 과 **웹 개발**을 전문으로 하며, **AI 보안**과 **데이터 분석** 분야에도 깊은 관심을 가지고 있습니다. 언제든지 연락 주세요!
 
 [![Instagram Badge](https://img.shields.io/badge/-j.woochang-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/j.woochang/)](https://instagram.com/j.woochang)
 [![Gmail Badge](https://img.shields.io/badge/-woochang4862@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woochang4862@gmail.com)](mailto:woochang4862@gmail.com)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Woochang4862/Woochang4862/main/images/developer.png" width="25"> About me
+
+- 코드를 작성할 때 해당 코드의 **역할과 이유**를 중요하게 생각해요.
+- SW가 **다양한 분야의 문제**를 해결할 수 있는지에 대해 생각해요.
+- 문제에 직면했을 때 **끈기있게** 부딪혀 보는 것을 좋아해요.
+- 더 나은 **내일**을 위해 끊임없이 노력해요.
 
 ---
 
