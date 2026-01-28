@@ -52,10 +52,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Woochang4862&show_icons=true&theme=radical" alt="Woochang's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Woochang4862&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Woochang4862.Woochang4862)
