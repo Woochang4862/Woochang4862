@@ -1,4 +1,4 @@
-# Hi there, I'm Woochang 👋 <img src="./images/victory-sign.png" align="right" width="120" />
+# Hi there, I'm Woochang 👋 <img src="https://raw.githubusercontent.com/Woochang4862/Woochang4862/main/images/victory-sign.png" align="right" width="100" />
 
 ### 🎯 Full-stack Developer interested in Mobile, ML, and Data Engineering
 
@@ -47,17 +47,17 @@ I am a passionate software engineer who loves exploring new technologies and bui
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Woochang4862&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Woochang4862&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 
-- 📧 Email: [Your Email Here]
+- 📧 Email: **woochang4862@gmail.com**
 - 📝 Blog: [https://woochang4862.github.io/](https://woochang4862.github.io/)
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- � Instagram: [@j.woochang](https://instagram.com/j.woochang)
 
 <p align="center">
-  <img src="./images/developer.png" width="200" />
+  <img src="https://raw.githubusercontent.com/Woochang4862/Woochang4862/main/images/developer.png" width="200" />
 </p>
