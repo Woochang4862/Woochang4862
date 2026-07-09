@@ -55,7 +55,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Woochang4862&show_icons=true&theme=radical" alt="Woochang's GitHub Stats" />
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="100%" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/radical/3-stats.svg" alt="Woochang's GitHub Stats" width="49%" />
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Woochang4862&theme=radical" alt="GitHub Streak" />
 </p>
 
