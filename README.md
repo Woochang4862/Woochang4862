@@ -48,7 +48,7 @@
 | **Omnis** | 업무 대화가 곧 업무 문서가 되는 사내 AI 서비스 (Next.js · Prisma · Gemini · RAG) | 풀스택 개발 · GBSA BEST OF CHAMP+ 2026 발표 | 사내 서비스 (비공개) |
 | **동구라미** | 수원대학교 동아리 연합회 공식 플랫폼 (Flutter · React) | 프론트엔드 팀장 → 개발 총괄 · 배포 빈도 +818% · 누적 가입 498명 / MAU 1,072 | [donggurami.net](https://donggurami.net) · [repo](https://github.com/USW-Circle-Link/USW-Circle-Link-APP) |
 | **Soon** | 6년째 운영 중인 상영예정 영화 알림 앱 | 1인 풀스택 · Node.js/MySQL/Redis · AWS EC2 · docker-compose | [repo](https://github.com/Woochang4862/Soon) |
-| **ETF 예측** | LightGBM LambdaRank + TabPFN 랭킹 모델과 Next.js 대시보드 | 모델링 · 웹 | [모델](https://github.com/Woochang4862/etf-model) · [대시보드](https://github.com/Woochang4862/etf-web-dashboard) |
+| **Snowballing AI ETF** | AI 기반 Active ETF 운용 대시보드 — LightGBM LambdaRank + TabPFN 랭킹 모델 (Next.js) | 모델링 · 웹 · 실서비스 배포 | [라이브](http://ahnbi2.suwon.ac.kr) · [모델](https://github.com/Woochang4862/etf-model) · [대시보드](https://github.com/Woochang4862/etf-web-dashboard) |
 | **화성시 복지 챗봇** | 공공데이터 × LLM 다국어 챗봇 | 프론트엔드 — LLM 스트리밍 응답 UI | [repo](https://github.com/Woochang4862/Hwaseong-si-Data-Analysis-ChatBot) |
 | **四季 (사계)** | 인터랙티브 AI 아트 — MARS 2025 코엑스 전시 (수원대학교 대표) | 풀스택 (React · GPT-4o-mini · TouchDesigner) | 전시작 |
 
