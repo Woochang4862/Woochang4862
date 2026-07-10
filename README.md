@@ -45,12 +45,12 @@
 
 | 프로젝트 | 무엇을 | 역할 · 성과 | 보기 |
 |---|---|---|---|
-| **Omnis** | 업무 대화가 곧 업무 문서가 되는 사내 AI 서비스 (Next.js · Prisma · Gemini · RAG) | 풀스택 개발 · GBSA BEST OF CHAMP+ 2026 발표 | 사내 서비스 (비공개) |
-| **동구라미** | 수원대학교 동아리 연합회 공식 플랫폼 (Flutter · React) | 프론트엔드 팀장 → 개발 총괄 · 배포 빈도 +818% · 누적 가입 498명 / MAU 1,072 | [donggurami.net](https://donggurami.net) · [repo](https://github.com/USW-Circle-Link/USW-Circle-Link-APP) |
-| **Soon** | 6년째 운영 중인 상영예정 영화 알림 앱 | 1인 풀스택 · Node.js/MySQL/Redis · AWS EC2 · docker-compose | [repo](https://github.com/Woochang4862/Soon) |
-| **Snowballing AI ETF** | AI 기반 Active ETF 운용 대시보드 — LightGBM LambdaRank + TabPFN 랭킹 모델 (Next.js) | 모델링 · 웹 · 실서비스 배포 | [라이브](http://ahnbi2.suwon.ac.kr) (코드 비공개) |
-| **화성시 복지 챗봇** | 공공데이터 × LLM 다국어 챗봇 | 프론트엔드 — LLM 스트리밍 응답 UI | [repo](https://github.com/Woochang4862/Hwaseong-si-Data-Analysis-ChatBot) |
-| **四季 (사계)** | 인터랙티브 AI 아트 — MARS 2025 코엑스 전시 (수원대학교 대표) | 풀스택 (React · GPT-4o-mini · TouchDesigner) | 전시작 |
+| **Omnis** | 업무 대화가 곧 업무 문서가 되는 사내 AI 서비스 (Next.js · Prisma · Gemini · RAG) | 풀스택 개발 | ![Private](https://img.shields.io/badge/사내_서비스-비공개-6E7681?style=flat-square&logo=lock&logoColor=white) ![Award](https://img.shields.io/badge/GBSA_BEST_OF_CHAMP+_2026-발표-FFC107?style=flat-square) |
+| **동구라미** | 수원대학교 동아리 연합회 공식 플랫폼 (Flutter · React 19) | 프론트엔드 팀장 → 개발 총괄 · 배포 빈도 +818% · 누적 가입 498명 / MAU 1,072 | [![Live](https://img.shields.io/badge/Live-donggurami.net-00C7B7?style=flat-square&logo=googlechrome&logoColor=white)](https://donggurami.net) [![Admin](https://img.shields.io/badge/Admin-admin.donggurami.net-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://admin.donggurami.net) [![App Repo](https://img.shields.io/badge/App_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/USW-Circle-Link/USW-Circle-Link-APP) [![Admin Repo](https://img.shields.io/badge/Admin_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/USW-Circle-Link/admin-donggurami-net) |
+| **Soon** | 2019년부터 운영 중인 상영예정 영화 알림 앱 | 1인 풀스택 · Node.js/MySQL/Redis · AWS EC2 · docker-compose | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.lusle.android.soon) [![App Repo](https://img.shields.io/badge/App_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Woochang4862/Soon) [![Server Repo](https://img.shields.io/badge/Server_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Woochang4862/soon-server-side) |
+| **Snowballing AI ETF** | AI 기반 Active ETF 운용 대시보드 — LightGBM LambdaRank + TabPFN 랭킹 모델 (Next.js) | 모델링 · 웹 · 실서비스 배포 | [![Live](https://img.shields.io/badge/Live-ahnbi2.suwon.ac.kr-00C7B7?style=flat-square&logo=googlechrome&logoColor=white)](http://ahnbi2.suwon.ac.kr) ![Private](https://img.shields.io/badge/코드-비공개-6E7681?style=flat-square&logo=lock&logoColor=white) |
+| **화성시 복지 챗봇** | 공공데이터 × LLM 다국어 챗봇 | 프론트엔드 — LLM 스트리밍 응답 UI | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Woochang4862/Hwaseong-si-Data-Analysis-ChatBot) |
+| **四季 (사계)** | 인터랙티브 AI 아트 — MARS 2025 코엑스 전시 (수원대학교 대표) | 풀스택 (React · GPT-4o-mini · TouchDesigner) | ![Exhibition](https://img.shields.io/badge/전시-COEX_2025-E17055?style=flat-square) |
 
 ---
 
