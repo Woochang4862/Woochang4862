@@ -1,6 +1,6 @@
 ## WHY? : MY DRIVING FORCE! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-저는 **우창**입니다. '왜?'라는 질문에 답하는 것을 중요하게 생각하는 소프트웨어 엔지니어입니다. 지금은 **하드사이언스 AI개발팀**에서 치매 조기진단 AI를 연구하며, 업무 대화가 곧 업무 문서가 되는 사내 AI 서비스 **「Omnis」**를 만들고 있습니다. 대학에서는 동아리 플랫폼 **「동구라미」**를 MAU 1,000+ 실서비스로 키웠고, 학교에 해커톤이 없어서 직접 열었습니다. 언제든지 연락 주세요!
+저는 **우창**입니다. '왜?'라는 질문에 답하는 것을 중요하게 생각하는 소프트웨어 엔지니어입니다. 지금은 **하드사이언스 AI개발팀**에서 치매 조기진단 AI를 연구하며, 업무 대화가 곧 업무 문서가 되는 사내 AI 서비스 **Omnis**를 만들고 있습니다. 대학에서는 동아리 플랫폼 **「동구라미」**를 MAU 1,000+ 실서비스로 키웠고, 학교에 해커톤이 없어서 직접 열었습니다. 언제든지 연락 주세요!
 
 [![Instagram Badge](https://img.shields.io/badge/-j.woochang-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/j.woochang/)](https://instagram.com/j.woochang)
 [![Gmail Badge](https://img.shields.io/badge/-woochang4862@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woochang4862@gmail.com)](mailto:woochang4862@gmail.com)
